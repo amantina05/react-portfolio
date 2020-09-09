@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Amantina Sosa",
+    "occupation": "Fullstack Web Developer",
+    "description": "Ascending Latina software engineer with a passion for making tech available for all.",
+    "bio": "My name is Amantina, I am an aspiring software engineer with a BA in Psychology & Studio Art from Hunter College. I recently graduated from Fullstack Academy the coding bootcamp. I learned computer science fundamentals, front-end and back-end development, database management, common tools and best practices.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "amantinasosa@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "New York",
+      "state": "NY",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/amantina.a.sosa/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/amantina-sosa",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tinaa.sosa/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/amantina05",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Fullstack Academy",
+        "degree": "Software Engineering Certification",
+        "graduated": "April 2020",
+        "description": "13 week immersive software engineering bootcamp."
+      },
+      {
+        "school": "The Knowledge House",
+        "degree": "Web Development Program",
+        "graduated": "June 2019",
+        "description": "Completed 108 hours of instruction in HTML, CSS and JavaScript in preparation for advanced bootcamp and career opportunities."
+      },
+      {
+        "school": "Harlem Business Alliance",
+        "degree": "Coding & Entrepreneurship Program",
+        "graduated": "January 2019",
+        "description": "Completed 600+ hours of intensive coding; consisting of HTML, CSS, JS. Created websites in order to help communities that are disenfranchised by offering them assistance and solutions."
+      }
+    ],
+    "work": [
+      {
+        "company": "Joanne The Groomer",
+        "title": "Web Developer",
+        "years": "June 2020",
+        "description": "Build a grooming website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Cybersecurity",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Insta Reels Clone",
+        "category": "Instagram Reels Clone built with ReactJS",
+        "image": "InstaReels.png",
+        "url": "https://insta-reels-a34f8.web.app"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon.png",
+        "url": "https://clone-33d8a.web.app"
+      },
+      {
+        "title": "Toogle",
+        "category": "Google Clone built with ReactJS",
+        "image": "Toogle.png",
+        "url": "https://clone-bc84a.web.app"
+      },
+      {
+        "title": "InstaStack",
+        "category": "Rapid prototyping tool used to build projects in less than five minutes with a custom look and feel. Built with ReactJS, and Redux",
+        "image": "Instastack.png",
+        "url": "https://instastack.herokuapp.com"
+      },
+      {
+        "title": "Be My Ears",
+        "category": "A website used to simplify the lives of people who are hard of hearing. Built with ReactJS, and Redux",
+        "image": "Be-My-Ears.png",
+        "url": "https://be-my-ears.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "When I first met Amantina, she had no prior knowledge of coding, but soon immersed herself in learning as much as she could as quickly as possible. As a student in my tech and entrepreneurship program, her drive led her to quickly rise to the top of her cohort, while also skillfully juggling other important commitments. She's the kind of individual who I would want on my team as she's willing to take on professional challenges that push her far beyond her comfort zone, is relentless in her pursuit of knowledge and in successfully executing a vision to complete a project.",
+        "user": "Philomena Boateng"
+      }
+    ]
+  }
+}
